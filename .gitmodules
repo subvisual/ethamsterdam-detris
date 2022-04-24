@@ -1,0 +1,6 @@
+[submodule "detris-frontend"]
+	path = detris-frontend
+	url = git@github.com:finiam/detris-frontend.git
+[submodule "tetris-wasm"]
+	path = tetris-wasm
+	url = git@github.com:finiam/tetris-wasm.git
