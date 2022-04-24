@@ -4,3 +4,6 @@
 [submodule "tetris-wasm"]
 	path = tetris-wasm
 	url = git@github.com:finiam/tetris-wasm.git
+[submodule "detris-contracts"]
+	path = detris-contracts
+	url = https://github.com/finiam/detris-contracts
