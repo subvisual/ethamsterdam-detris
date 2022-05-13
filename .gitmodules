@@ -7,3 +7,6 @@
 [submodule "detris-wasm"]
 	path = detris-wasm
 	url = git@github.com:finiam/detris-wasm.git
+[submodule "detris-upload-ipfs"]
+	path = detris-upload-ipfs
+	url = https://github.com/finiam/detris-upload-ipfs
